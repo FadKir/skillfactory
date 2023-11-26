@@ -1,17 +1,17 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/FadKir/skillfactory/tree/master/Project-1)  
-[2. Какой кейс решаем?](https://github.com/FadKir/skillfactory/tree/master/Project-1)  
-[3. Краткая информация о данных](https://github.com/FadKir/skillfactory/tree/master/Project-1)  
-[4. Этапы работы над проектом](https://github.com/FadKir/skillfactory/tree/master/Project-1)  
-[5. Результат](https://github.com/FadKir/skillfactory/tree/master/Project-1)    
-[6. Выводы](https://github.com/FadKir/skillfactory/tree/master/Project-1) 
+[1. Описание проекта](Project-1/README.md)  
+[2. Какой кейс решаем?](Project-1/README.md)  
+[3. Краткая информация о данных](Project-1/README.md)  
+[4. Этапы работы над проектом](Project-1/README.md)  
+[5. Результат](Project-1/README.md)    
+[6. Выводы](Project-1/README.md) 
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](Project-1/README.md)
 
 
 ### Какой кейс решаем?    
@@ -20,11 +20,15 @@
 ### Краткая информация о данных
 Компанией HeadHunter были предоставлены анкетные данные соискателей, за определенный период, для анализа на рынке труда, помимо этого мы обратились к интернет-ресурсу MDF.RU  для получения данных о курсе валют.
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](Project-1/README.md)
 
 
 ### Этапы работы над проектом  
-....
+Данный проект разделим на четыри части:
+   - Базовый анализ структуры данных
+   - Преобразование данных
+   - Разведывательный анализ
+   - Очистка данных
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
