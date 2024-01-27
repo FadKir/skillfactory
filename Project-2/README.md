@@ -11,7 +11,7 @@
 ### Описание проекта    
 Работа с данными на примере базы данных вакансий hh.ru.
 
-:arrow_up:[к оглавлению](Project-2/README.md)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)
 
 ### Какой кейс решаем?    
 Бизнес-задача с применением роли аналитика в компании HeadHunter.
@@ -19,12 +19,12 @@
 Что практикуем
 Работу с базой данных, выполнение SQL-запросов средствами python, анализ и исследование данных.
 
-:arrow_up:[к оглавлению](Project-2/README.md)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)
 
 ### Краткая информация о данных
 Нам доступна база данных содержащая 49197 вакансии, 23501 работодателя, так же в ней содержится информация о 1362 регионах по 294 сферам деятельности.
   
-:arrow_up:[к оглавлению](Project-2/README.md)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)
 
 
 ### Этапы работы над проектом  
@@ -36,17 +36,17 @@
    - Предметный анализ
    - Дополнительные исследования
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)
 
 
 ### Результаты:  
 В ходе выполнения проекта мы провели анализ данных и их взаимосвязь, сделаны выводы по каждому этапу работы.
 Ознакомиться с работой (https://github.com/FadKir/skillfactory/blob/master/Project-2/Project_2.ipynb)
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)
 
 
 ### Выводы:  
 Полученые модели решения поставленых задачь могут быть использована для дальнейшего построения модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)
