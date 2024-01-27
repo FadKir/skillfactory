@@ -1,20 +1,17 @@
 # Проект 2: Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
-[2. Какой кейс решаем?](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
-[3. Краткая информация о данных](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
-[4. Этапы работы над проектом](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
-[5. Результат](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)    
-[6. Выводы](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md) 
+[1. Описание проекта](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)  
+[2. Какой кейс решаем?](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)  
+[3. Краткая информация о данных](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)  
+[4. Этапы работы над проектом](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)  
+[5. Результат](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md)    
+[6. Выводы](https://github.com/FadKir/skillfactory/blob/master/Project-2/README.md) 
 
 ### Описание проекта    
 Работа с данными на примере базы данных вакансий hh.ru.
 
-⬆️к оглавлению
-
 :arrow_up:[к оглавлению](Project-2/README.md)
-
 
 ### Какой кейс решаем?    
 Бизнес-задача с применением роли аналитика в компании HeadHunter.
