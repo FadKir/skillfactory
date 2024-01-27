@@ -1,12 +1,12 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](Project-1/README.md)  
-[2. Какой кейс решаем?](Project-1/README.md)  
-[3. Краткая информация о данных](Project-1/README.md)  
-[4. Этапы работы над проектом](Project-1/README.md)  
-[5. Результат](Project-1/README.md)    
-[6. Выводы](Project-1/README.md) 
+[1. Описание проекта](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
+[2. Какой кейс решаем?](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
+[3. Краткая информация о данных](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
+[4. Этапы работы над проектом](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
+[5. Результат](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)    
+[6. Выводы](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md) 
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
