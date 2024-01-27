@@ -1,4 +1,4 @@
-# Проект 1. Анализ резюме из HeadHunter
+# Проект 2: Анализ резюме из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
