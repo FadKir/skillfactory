@@ -1,10 +1,10 @@
 # Практика. Статистические тесты в контексте EDA-4
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
-[2. Какой кейс решаем?](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
-[3. Краткая информация о данных](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
-[4. Этапы работы над проектом](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)  
+[1. Описание проекта](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#этапы-работы-над-проектом)  
 [5. Результат](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)    
 [6. Выводы](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md) 
 
@@ -74,6 +74,16 @@ HR-агентство изучает тренды на рынке труда в 
    - Статистический анализ данных
  - Соответствующие выводы по бизнес-вопросам
  - Дополнительное исследование
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
+
+### Результаты:  
+В ходе выполнения проекта было выполнено:
+- проверка датасет на наличие пропусков и дубликатов, а также на корректность типов данных столбцов;
+- определены неинформативные признаки, которые не будут участвовать в исследовании;
+- классифицированы все признаки на числовые и категориальные;
+- сделан базовый анализ для каждого признака с последующей их визуализацией;
+- сформулированы нулевые и альтернативные гипотезы на основе поставленных бизнес-вопросов с последующим тестированием данных.
 Ознакомиться с работой (https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/EDA_practik.ipynb)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
