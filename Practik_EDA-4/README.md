@@ -5,13 +5,13 @@
 [2. Какой кейс решаем?](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#этапы-работы-над-проектом)  
-[5. Результат](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md)    
-[6. Выводы](https://github.com/FadKir/skillfactory/blob/master/Project-1/README.md) 
+[5. Результат](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#результаты)    
+[6. Выводы](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#выводы) 
 
 ### Описание проекта 
 HR-агентство изучает тренды на рынке труда в IT. Компания хочет провести исследование на основе данных о зарплатах в сфере Data Science за 2020–2022 годы и получить некоторые выводы.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#оглавление)
 
 ### Какой кейс решаем?    
 В процессе анализа необходимо:
@@ -23,7 +23,7 @@ HR-агентство изучает тренды на рынке труда в 
     - Есть ли связь между наличием должностей Data Scientist и Data Engineer и размером компании?
 Если вы найдёте в данных интересные закономерности, также отметьте их в своём анализе.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#оглавление)
 
 Продемонстрируйте использование разных тестов для проверки статистической значимости сделанных выводов:
 
@@ -33,7 +33,7 @@ HR-агентство изучает тренды на рынке труда в 
     - для нескольких выборок.
 - Тест для категориальных признаков.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#оглавление)
 
 ### Краткая информация о данных
 Данные содержат следующие столбцы:
@@ -64,7 +64,7 @@ HR-агентство изучает тренды на рынке труда в 
                              L — более 250 сотрудников (крупная компания).  
 Оригинальный датасет: “Data Science Job Salaries” (kaggle.com)
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#оглавление)
 
 ### Этапы работы над проектом
 Данный проект включает следующие этапы:
@@ -75,7 +75,7 @@ HR-агентство изучает тренды на рынке труда в 
  - Соответствующие выводы по бизнес-вопросам
  - Дополнительное исследование
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#оглавление)
 
 ### Результаты:  
 В ходе выполнения проекта было выполнено:
@@ -86,7 +86,7 @@ HR-агентство изучает тренды на рынке труда в 
 - сформулированы нулевые и альтернативные гипотезы на основе поставленных бизнес-вопросов с последующим тестированием данных.
 Ознакомиться с работой (https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/EDA_practik.ipynb)
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#оглавление)
 
 ### Выводы:  
 - Наблюдается ежегодный рост зарплат у специалистов Data Scientist.
@@ -102,4 +102,4 @@ HR-агентство изучает тренды на рынке труда в 
 - Взаимосвязь между размером компании и должностями Data Scientist и Data Engineer присудствует.
 - Зарплата специалиста Data Science, проживающего в США, выше средней зарплаты этого специалиста по всем странам.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/FadKir/skillfactory/blob/master/Practik_EDA-4/README.md#оглавление)
